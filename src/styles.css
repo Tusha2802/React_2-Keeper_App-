@@ -1,0 +1,38 @@
+.header{
+    background-color:orange;
+    height: 70px;
+    color:white;
+    border: 1px solid white;
+    margin: -8px;
+}
+
+.keeper{
+    margin: 10px 0px 30px 50px;
+    font-family: "McLaren", cursive;
+}
+
+.footer{
+    text-align: center;
+    border: 0px solid red;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    margin-left: -10px;
+}
+
+.note{
+    width: 250px;
+    overflow: auto;
+    border: 0px solid red;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 7px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+body{
+    background-color: wheat;
+}
