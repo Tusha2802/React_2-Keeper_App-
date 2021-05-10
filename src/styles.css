@@ -32,8 +32,47 @@
     text-align: center;
     background-color: whitesmoke;
     float:left;
+    font-family:"Mclaren",cursive ;
 }
 
 body{
     background-color: wheat;
+}
+
+.addNote{
+    width: 450px;
+    padding: 20px;
+    margin: 2% 35%;
+    background-color: whitesmoke;
+    border-radius: 7px;
+}
+
+.addNote_input{
+    padding: 10px;
+    width: 95%;
+    border: 0;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: whitesmoke;
+}
+
+.button-box{
+    background-color: orange;
+    color: whitesmoke;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 15px;
+    margin: 7% 0% 0 -3%;
+    position: absolute;
+}
+
+.del-btn{
+    border: 0;
+    color: red;
+    margin: 0  0 5% 70%;
+    border: 0px solid black;
+    overflow: auto;
+    text-align: right;
+    width: 60px;
+    text-decoration: underline;
 }
